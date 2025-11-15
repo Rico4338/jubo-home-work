@@ -1,0 +1,29 @@
+### DotnetCore ###
+# .NET Core build folders
+bin/
+obj/
+
+#IDE
+.vscode
+.idea
+*.DotSettings.user
+
+# Common node modules locations
+/node_modules
+/wwwroot/node_modules
+
+### react ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+node_modules
+bower_components
+
+*.sublime*
+
+psd
+thumb
+sketch
